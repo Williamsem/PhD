@@ -10,9 +10,10 @@ RGH = Royal Gwent Hospital
 NHH = Nevill Hall Hospital
 T\&O = Trauma and Orthopaedics
 COTE = Care of the Elderly 
-EV 
-EEV
-RP 
-VSS
+EV = Expected Values
+EEV = Expected Cost when using the solution $\bar \x(\bar \xi)$ 
+RP = Here and now solution
+VSS = Value of the Stochastic Solution
 LUSS
 LUDS
+MIP = Mixed Integer Program
