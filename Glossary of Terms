@@ -14,6 +14,8 @@ EV = Expected Values
 EEV = Expected Cost when using the solution $\bar \x(\bar \xi)$ 
 RP = Here and now solution
 VSS = Value of the Stochastic Solution
-LUSS
-LUDS
+ESSV = Expected Skeleton Solution Value
+EIV = Expected Input Value
+LUSS = Loss Using Skeleton Solution
+LUDS = Loss of Upgrading the Deterministic Solution
 MIP = Mixed Integer Program
