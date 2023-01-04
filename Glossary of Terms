@@ -19,3 +19,4 @@ EIV = Expected Input Value
 LUSS = Loss Using Skeleton Solution
 LUDS = Loss of Upgrading the Deterministic Solution
 MIP = Mixed Integer Program
+DRG = Diagnosis-related group
