@@ -25,3 +25,7 @@ A\&E = Accident and Emergency
 NHS = National Health Service
 ICD10 Codes = International Statistical Classification of Diseases and Related Health Problems - 10^{th} revision
 MIU = Minor Injury Unit
+COIN-OR = Computational Infrastructure for Operations Research
+COIN-OR CBC = COIN-OR Branch and Cut
+COIN-OR CLP = COIN-OR Linear Programming
+MILP = Mixed Integer Linear Program
