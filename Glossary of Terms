@@ -8,7 +8,12 @@ MSE = Mean Square Error
 LOS = Length of Stay
 RGH = Royal Gwent Hospital
 NHH = Nevill Hall Hospital
-T\&O = Trauma and Orthopaedics
+STW(C) = St Woolos Community Hospital
+STW(A) = St Woolos Acute Hospital
+YYF = Ysbyty Ystrad Fawr
+YAB = Ysbyty Aneurin Bevan
+
+T\&O = Trauma and Orthopaedics  
 COTE = Care of the Elderly 
 EV = Expected Values
 EEV = Expected Cost when using the solution $\bar \x(\bar \xi)$ 
